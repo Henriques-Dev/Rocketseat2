@@ -60,3 +60,7 @@ Uma lista que contém qualquer tipo de dado.
 ## Estrutura de Repetição
 
 [X] While
+
+## Condicionais
+
+[X] switch
