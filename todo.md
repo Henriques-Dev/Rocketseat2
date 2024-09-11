@@ -7,3 +7,4 @@
 - [X] Marcar / Desmarcar metas como concluidas
 - [X] Remover Metas
 - [X] Sistema de Mensagens
+- [X] Persistir Dados
