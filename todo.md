@@ -2,7 +2,7 @@
 
 - [X] Criar Metas
 - [X] Listar Metas
-    - [] Metas Realizadas
+    - [X] Metas Realizadas
     - [] Metas Abertas
 - [X] Marcar / Desmarcar metas como concluidas
 - [] Remover Metas

@@ -28,14 +28,14 @@ const listarMetas = async () => {
         instructions: false,
     })
 
+    metas.forEach((m) => { // Foi mudado a sequência para corrigir erro: (2 ou mais metas, após concluidas, serem desmarcadas. Uma das metas permanecia marcada.)
+        m.checked = false
+    })
+
     if(respostas.length == 0) {
         console.log('Nenhuma meta foi selecionada.')
         return
     }
-
-    metas.forEach((m) => {
-        m.checked = false
-    })
 
     respostas.forEach((resposta) => { // Pesquisar a meta na lista Metas
         const meta = metas.find((m) => {
