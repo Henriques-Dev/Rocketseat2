@@ -1,9 +1,9 @@
 ## To Do List
 
-- [] Criar Metas
-- [] Listar Metas
+- [X] Criar Metas
+- [X] Listar Metas
     - [] Metas Realizadas
     - [] Metas Abertas
-- [] Marcar / Desmarcar metas como concluidas
+- [X] Marcar / Desmarcar metas como concluidas
 - [] Remover Metas
 - [] Sistema de Mensagens

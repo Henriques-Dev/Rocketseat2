@@ -39,12 +39,14 @@ Como um lego, você irá utilizar peças para criar algoritmos. ou seja, para re
 [X] Operadores de Atribuição de Valor: =
 [X] Operador de Concatenação: +
 [X] Operadores de Comparação: == (igual) != (diferente) < (Menor que) > (Maior que) <= (Menor ou igual que) >= (Maior ou igual que)
+[X] Spread operator: ...
 
 ## Estruturas de Dados
 
 # Arrays
 
-Uma lista que contém qualquer tipo de dado.
+[X] Uma lista que contém qualquer tipo de dado.
+[X] Métodos de array: push, (find, forEach, filter) : HOF (Higher Order Functions)
 
 # Objetos
 
